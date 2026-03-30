@@ -70,7 +70,7 @@ export default function PreatomLanding() {
           </a>
 
           <a 
-            href="#" 
+            href="https://sedo.com/search/details/?domain=preatom.com&origin=domaindetails" 
             target="_blank"
             rel="noopener noreferrer"
             className="group relative px-10 py-4 bg-black border border-white/10 text-white font-bold rounded-full overflow-hidden transition-all duration-500 hover:bg-white/5 hover:border-white/20 hover:scale-[1.02] active:scale-95 w-full sm:w-1/2"
